@@ -29,10 +29,10 @@ Besides programming I also enjoy:
 <code>🎸 Playing guitar and writing songs (check out my music <a href="https://www.youtube.com/channel/UCy12KbwRenkqWZZKQzd2NXw">here 🥰</a>)
 💪 Working out
 📖 Reading
-☕️ Coffee (❤️)<code>
-</pre>
+☕️ Coffee <3</code>
+</pre> 
 
-Here's also some cool GitHub stat thingies to show off with:
+Here's also some cool GitHub stat thingies to *show off* with:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gregorkovac&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
 
