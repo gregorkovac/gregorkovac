@@ -1,4 +1,4 @@
-Sup! 😄 \
+Sup! 😄 
 
 ![beebles](https://media.giphy.com/media/xT0GqpRWUoYlUSQpaM/giphy.gif)
 
