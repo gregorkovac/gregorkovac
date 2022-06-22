@@ -1,4 +1,4 @@
-**Hello!** 😄 
+# Hello! 😄 
 
 My name is Gregor and I'm a computer science student.
 
