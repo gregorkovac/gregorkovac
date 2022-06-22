@@ -1,4 +1,4 @@
-# Hello! 😄 
+# Hello! 👋
 
 My name is Gregor and I'm a computer science student.
 
@@ -34,10 +34,10 @@ Besides programming I also enjoy:
 
 Here's also some cool GitHub stat thingies to *show off* with:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gregorkovac&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gregorkovac&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorkovac&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorkovac&theme=dark&hide=ShaderLab,HLSL,ASP.NET,GLSL)](https://github.com/anuraghazra/github-readme-stats)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=gregorkovac&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=gregorkovac&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 If you like any of my repositories I would appreciate a ⭐️ and a follow!
