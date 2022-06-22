@@ -21,6 +21,7 @@ but I'm also well acquainted with:
 > JavaScript
 > MATLAB
 > Pascal 
+> Bash
 ```
 
 Besides programming I also enjoy:
