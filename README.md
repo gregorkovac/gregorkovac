@@ -4,7 +4,7 @@ My name is Gregor and I'm a computer science student.
 
 Some basic information about me:
 ```
-🍰 20 years old
+🍰 21 years old
 📍 Ljubljana, Slovenia
 📚 Faculty of Computer and Information Science, University of Ljubljana
 ```
