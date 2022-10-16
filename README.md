@@ -26,7 +26,7 @@ but I'm also well acquainted with:
 
 Besides programming I also enjoy:
 <pre>
-<code>🎸 Playing guitar and writing songs (check out my music <a href="https://www.youtube.com/channel/UCy12KbwRenkqWZZKQzd2NXw">here 🥰</a>)
+<code>🎸 Playing guitar and writing songs
 💪 Working out
 📖 Reading
 ☕️ Coffee <3</code>
