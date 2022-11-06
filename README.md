@@ -8,21 +8,6 @@ My name is Gregor and I'm a computer science student.
 📍 Ljubljana, Slovenia
 📚 Faculty of Computer and Information Science, University of Ljubljana
 ```
-I've been programming for about 8 years now! I'm most interested in application and game development, competative programming, AI and machine learning. I'm very comfortable writing code in the following languages:
-```
-> C & C++
-> Java
-> HTML + CSS
-> SQL
-```
-but I'm also well acquainted with:
-```
-> Python
-> JavaScript
-> MATLAB
-> Pascal 
-> Bash
-```
 
 ## Skills
 <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
