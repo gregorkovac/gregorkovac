@@ -39,6 +39,8 @@ but I'm also well acquainted with:
  
  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> 
           
+          
+## GitHub stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gregorkovac&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorkovac&theme=dark&hide=ShaderLab,HLSL,ASP.NET,GLSL)](https://github.com/anuraghazra/github-readme-stats)
