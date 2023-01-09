@@ -20,7 +20,7 @@ My name is Gregor and I'm a computer science student.
  <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
  <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+<img height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
           
  
  
