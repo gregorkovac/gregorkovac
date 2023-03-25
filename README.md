@@ -1,1 +1,1 @@
-Click [here](README.md) to see my profile description.
+Click [here](https://github.com/gregorkovac) to see my profile description.
