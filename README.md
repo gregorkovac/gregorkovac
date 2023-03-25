@@ -1,5 +1,1 @@
-## Hello!
-
-You are probably looking for my profile readme. It is located here: [README.md](README.md).
-
-:)
+Click [here](README.md) to see my profile description.
