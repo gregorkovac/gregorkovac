@@ -11,13 +11,6 @@ My name is Gregor and I'm a data science master's student!
 
 ## Main skills
 <img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"><img height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-## Other non-computer-related skills and interests :)
-```
-🎸 Guitar, singing, songwriting
-🥋 Sports (calisthenics and karate)
-📖 Reading
-```
           
 ## GitHub stats
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=gregorkovac&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
