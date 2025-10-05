@@ -1,7 +1,7 @@
 ## 🎯 Main Interests
-> Game Development
-> Data Science
-> Mathematics
+- Mathematics
+- Data Science
+- Game Development
 
 ## 👨‍💻 Current Positions
 - Data Science Master's student (currently finishing my master's thesis on Navier-Stokes equations + Physics-Informed Machine Learning)
