@@ -13,7 +13,3 @@
 - **Object-Oriented Programming** (C/C++)
 - **Game Development** (Unreal Engine, Unity)
 - **Web Development** (JavaScript, React, Go)
-          
-## 📈 GitHub stats
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=gregorkovac&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
