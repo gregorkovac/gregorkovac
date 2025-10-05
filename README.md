@@ -1,11 +1,17 @@
 ## Main Interests
-🎯 Mathematics
-🎯 Data Science
-🎯 Game Development
+```
+- Mathematics
+- Data Science
+- Game Development
+```
 
-## 👨‍💻 Current Positions
-- Data Science Master's student (currently finishing my master's thesis on Navier-Stokes equations + Physics-Informed Machine Learning)
+
+## Current Positions
+```
+- Data Science Master's student
+(currently finishing my master's thesis on Navier-Stokes equations + Physics-Informed Machine Learning)
 - Lead software developer at [SimFit2Drive](https://www.simfit2drive.com/)
+```
 
 ## 🛠️ Main Skills And Languages
 - Data Science (Python, PyTorch)
